@@ -24,4 +24,19 @@ Since I know python pretty well and its my primary coding language, I thought th
 
 So I look for it and i found this good API called [Discord.py](https://discordpy.readthedocs.io/en/stable/) <---- if youre wondering it'll redirect you to the api docs.
 
-It went well! although i have struggle with the errors, I can fix them. I lea
+Yea till this day I still work on it. It went pretty well! although i have struggle with the errors, I still can fix them. 
+Maybe i'll be planning to launch the bot to public soon™
+idk we'll see.
+
+
+![ah yes, bot](https://cdn.discordapp.com/attachments/845585903547842560/848547703691542539/unknown.png)
+> My Bot 👆
+
+And yes thats about it!
+i'll planning to make some tutorials on discord.py soon or never I guess.
+![lmao](https://cdn.discordapp.com/emojis/761842327672848404.png?v=1)
+
+
+
+Anyways, cya! hope everyone have a great time!
+-pixie
