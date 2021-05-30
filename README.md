@@ -39,4 +39,6 @@ i'll planning to make some tutorials on discord.py soon or never I guess.
 
 
 Anyways, cya! hope everyone have a great time!
+
+
 -pixie
